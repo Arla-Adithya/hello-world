@@ -1,2 +1,2 @@
 # hello-world
-Hello evryone. Adithya here, I like exploring and learning new things.
+Hello everyone. Adithya here, I like exploring and learning new things.
